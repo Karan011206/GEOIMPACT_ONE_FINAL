@@ -1,0 +1,6 @@
+node_modules/
+.next/
+geoimpact-complete/node_modules/
+geoimpact-complete/.next/
+.env
+.env.local
